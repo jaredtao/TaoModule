@@ -1,0 +1,4 @@
+﻿# 插件描述文件
+module TaoModuleCore
+plugin TaoModuleCore
+TCircle 1.0 Components/TCircle.qml

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/TaoModuleCore">
+        <file>Qml/qmldir</file>
+        <file>Qml/Components/TCircle.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+﻿# 这是在资源文件里面的qmldir，不要写module plugin
+TCircle 1.0 Components/TCircle.qml
